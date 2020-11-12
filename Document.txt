@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+les lensois sont des connards
+Le lillois sont les meilleurs
+<<<<<<< HEAD
+=======
+>>>>>>> a3f5931 (testnul)
+cc
+tt
+=======
+les lensios sont des connards
+>>>>>>> 1011ef9 (text)
+=======
+les lensois sont des connards
+Le lillois sont les meilleurs
+>>>>>>> 2114b54 (text)
+=======
+les lensois sont des connards
+>>>>>>> 4808946 (test 2)
+=======
+
+les lensois sont des connards
+Le lillois sont les meilleurs
+4808946c5fe10041e0e569c23ae8cad357e9bb58
+>>>>>>> 1dd3531 (solution nul)
+=======
+salut
+>>>>>>> b045d3e (modificatio de la branche main)
+=======
+conflit
+<<<<<<< HEAD
+>>>>>>> 692488b (test conflit)
+=======
+bonjour
+>>>>>>> b5ae806 (test bonjour)
